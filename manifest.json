@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "CriseStudios Uptime Monitor",
-  "short_name": "CriseStudios Uptime Monitor",
+  "name": "Upptime",
+  "short_name": "Upptime",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [
