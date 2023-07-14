@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.crisestudios.com.ico",
     "slug": "crise-studios-api",
     "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 696,
     "timeWeek": 696,
     "timeMonth": 696,
     "timeYear": 696,
-    "dailyMinutesDown": {
-      "2023-07-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CriseStudios Website",
