@@ -1,5 +1,5 @@
 :root {
-  --body-background-color: #8ca6d9;
+  --body-background-color: #75B0FB;
   --body-text-color: #f0ffff;
   --card-background-color: #002b29;
   --nav-background-color: #002b29;
@@ -14,7 +14,7 @@
   --tag-up-background-color: #20bf6b;
   --tag-down-background-color: #005ACA;
   --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
+  --change-background-color: #75B0FB;
   --error-button-border-color: #1a46ad;
   --error-button-background-color: #3867d6;
   --error-button-color: #ffffff;
