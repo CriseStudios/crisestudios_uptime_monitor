@@ -4,19 +4,19 @@
     "url": "https://api.crisestudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.crisestudios.com.ico",
     "slug": "crise-studios-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 734,
-    "timeDay": 672,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "98.75%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
+    "time": 1250,
+    "timeDay": 3272,
+    "timeWeek": 1250,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2023-07-20": 2
+      "2023-07-20": 104
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://crisestudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/crisestudios.com.ico",
     "slug": "crise-studios-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 414,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 509,
+    "timeDay": 451,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2023-07-20": 0
+      "2023-07-20": 103
     }
   }
 ]
