@@ -4,27 +4,29 @@
     "url": "https://api.crisestudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.crisestudios.com.ico",
     "slug": "crise-studios-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 734,
     "timeDay": 672,
     "timeWeek": 734,
     "timeMonth": 734,
     "timeYear": 734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 2
+    }
   },
   {
     "name": "CriseStudios Website",
     "url": "https://crisestudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/crisestudios.com.ico",
     "slug": "crise-studios-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   }
 ]
