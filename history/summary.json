@@ -24,19 +24,19 @@
     "url": "https://crisestudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/crisestudios.com.ico",
     "slug": "crise-studios-website",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 493,
     "timeDay": 426,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2023-07-21": 7,
+      "2023-07-21": 0,
       "2023-07-20": 103
     }
   }
