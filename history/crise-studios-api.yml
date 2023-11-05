@@ -1,7 +1,7 @@
 url: https://api.crisestudios.com
-status: down
-code: 500
-responseTime: 1662
-lastUpdated: 2023-11-05T21:51:26.020Z
+status: up
+code: 200
+responseTime: 1702
+lastUpdated: 2023-11-05T22:00:00.898Z
 startTime: 2023-07-14T22:01:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
