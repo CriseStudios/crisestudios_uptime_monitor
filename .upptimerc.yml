@@ -13,7 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: https://github.com/CriseStudios/crisestudios_uptime_monitor/master/assets/theme.css
+  themeUrl: https://status.crisestudios.com/theme.css
   cname: status.crisestudios.com
   #baseUrl: /crisestudios_uptime_monitor
   logoUrl: https://crisestudios.com/static/images/favicon.ico
