@@ -17,6 +17,7 @@ status-website:
   cname: status.crisestudios.com
   #baseUrl: /crisestudios_uptime_monitor
   logoUrl: https://crisestudios.com/static/images/favicon.ico
+  favicon: https://crisestudios.com/static/images/favicon.ico
   name: CriseStudios Uptime Monitor
   introTitle: "Here you can see the **uptime** of our Services."
   introMessage: 
