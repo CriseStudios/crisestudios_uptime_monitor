@@ -9,6 +9,8 @@ sites:
     url: https://passwordvault.crisestudios.com
   - name: SurveySpectrum
     url: https://surveyspectrum.crisestudios.com/
+  - name: EventFabrik-Nord
+    url: https://eventfabrik-nord.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
